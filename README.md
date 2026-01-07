@@ -4,6 +4,9 @@ This project documents the assembly, testing, and troubleshooting of a small aud
 
 The amplifier was constructed by following a provided schematic and soldering components onto a PCB. After initial assembly, audio output was validated using speakers salvaged from a pair of old headphones.
 
+## Instructions Source
+Build instructions were provided by [ISU Audio & Arduino Club]([https://example.com/amplifier-instructions](https://gtuttle.net/audio_arduino/)).
+
 ## Overview
 - Built a discrete audio amplifier from provided instructions
 - Soldered all components by hand
